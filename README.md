@@ -56,7 +56,9 @@ The project includes an interactive dashboard where users can:
 
 1. Install dependencies:
 ```
-pip install pandas matplotlib streamlit
+pip install pandas
+pip install matplotlib
+pip install streamlit
 ```
 
 2. Run the app:
@@ -77,7 +79,7 @@ streamlit run app.py
 ## Project Links
 - GitHub Repository: (Add your link here)
 - Deployed App: (Add after deployment)
-- Video Demo: (Add after recording)
+
 
 
 
