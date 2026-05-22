@@ -82,7 +82,6 @@ streamlit run app.py
 
 
 
-
 ## Conclusion
 This project provides insights into customer buying behavior and helps optimize staffing and operations based on sales patterns.
 
