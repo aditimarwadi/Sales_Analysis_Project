@@ -77,8 +77,8 @@ streamlit run app.py
 
 
 ## Project Links
-- GitHub Repository: (Add your link here)
-- Deployed App: (Add after deployment)
+- GitHub Repository: (https://github.com/aditimarwadi/Sales_Analysis_Project.git)
+- Deployed App: (https://aditimarwadi-sales-analysis-project-app-gzvdpp.streamlit.app/)
 
 
 
